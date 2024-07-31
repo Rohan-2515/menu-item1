@@ -6,7 +6,7 @@
 
 #main-division {
     width: 68vh;
-    height: 78vh;
+    height: 85vh;
     background-color: white;
     border-radius: 1rem;
     margin: 10vh auto;
@@ -14,7 +14,14 @@
     box-shadow: 8px 0 25px 8px #555;
 
 }
+/* user-info */
+#user-info{
+    display: flex;
+}
 
+#user-info-head{
+
+}
 #sub-division {
     width: 65vh;
     height: 42vh;
