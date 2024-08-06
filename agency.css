@@ -1,0 +1,49 @@
+.box-1{
+    width: 94%;
+    height: 80vh;
+    margin: 5vh auto;
+    background-color: antiquewhite;
+    box-shadow: 5px 0 25px 5xp #555;
+    border-radius: 2rem;
+}
+#heading-1{
+    margin: 1rem;
+    color: orange;
+    font-size: 2rem;
+}
+#box-2{
+    margin: 2rem;
+    font-size: 2.2rem;
+}
+#box-2 #text-1{
+    color: rgb(3, 3, 118);
+}
+#img-1{
+    display: flex;
+}
+#img-1 img{
+    width: 12rem;
+    height: 8rem;
+    margin-left: 2rem;
+}
+#img-1 p{
+    margin-left: 2rem;k;
+}
+#img-1 #beauty{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+#img-1 #construction{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+#footer{
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+}
+#footer p{
+   margin-top: 26vh;
+   margin-right: 2vh;
+   color: darkblue;
+}
